@@ -32,9 +32,9 @@ const Footer = () => {
           </div>
           <ul className={css.menu}>
             <li><a href="https://calendly.com/HarisIftikhar/15min?month=2023-11" style={{ textDecoration: 'none' }} target="_blank">Calendly</a></li>
-            <li><a href="https://docs.google.com/document/d/1KTIrkgeIkGirpL9th8MGH_BXa-dy6GGZ2pb_JlLxSjE/edit?usp=sharing" style={{ textDecoration: 'none' }} target="_blank">Resume</a></li>
+            <li><a href="https://docs.google.com/document/d/1CtpUaaOuOHVBOu_Bsk7gBy1B_5H1BIhFosBCyq7brOo/edit?usp=sharing" style={{ textDecoration: 'none' }} target="_blank">Resume</a></li>
             <li><a href="mailto:harisiftikhar109@gmail.com" style={{ textDecoration: 'none' }}>Email</a></li>
-            <li><a href = "tel:+92304-915-1865" style={{ textDecoration: 'none' }} target="_blank">Phone</a></li>
+            <li><a href = "tel:+1-609-887-5869" style={{ textDecoration: 'none' }} target="_blank">Phone</a></li>
           </ul>
         </div>
       </motion.div>
